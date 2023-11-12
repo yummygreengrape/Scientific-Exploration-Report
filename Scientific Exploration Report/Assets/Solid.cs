@@ -65,4 +65,6 @@ public class Solid : MonoBehaviour
     {
         afterTime = Time.time;
     }
+
+    //끝?? 끝????
 }
